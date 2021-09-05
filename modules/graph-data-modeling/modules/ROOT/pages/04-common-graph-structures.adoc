@@ -259,6 +259,7 @@ Employment events themselves are intermediate nodes connecting people, companies
 In this case, the intermediate nodes are serving the dual purposes of reducing the density of Person nodes, and providing an attachment point for the timeline tree.
 --
 
+
 image::PartialIntermediateNodes.png[PartialIntermediateNodes,width=900,align=center]
 
 === Using linked list
